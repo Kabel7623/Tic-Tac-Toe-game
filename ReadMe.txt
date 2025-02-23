@@ -1,0 +1,1 @@
+This is a Tic Tac Toe game using html,css and JS for fronend. Flask for backend.
